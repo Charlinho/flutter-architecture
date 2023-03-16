@@ -1,6 +1,6 @@
 import 'package:clean_dart_flutter_command/src/search/domain/entities/result.dart';
 import 'package:clean_dart_flutter_command/src/search/domain/usecases/search_by_text.dart';
-import 'package:clean_dart_flutter_command/src/search/presenter/commands/search_by_text_command.dart';
+import 'package:clean_dart_flutter_command/src/search/features/commands/search_by_text_command.dart';
 import 'package:flutter_command/flutter_command.dart';
 
 class SearchStore {

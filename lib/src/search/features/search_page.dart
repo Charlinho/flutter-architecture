@@ -2,7 +2,7 @@ import 'package:clean_dart_flutter_command/src/search/domain/entities/result.dar
 import 'package:clean_dart_flutter_command/src/search/domain/usecases/search_by_text.dart';
 import 'package:clean_dart_flutter_command/src/search/external/datasources/github_search_datasource.dart';
 import 'package:clean_dart_flutter_command/src/search/infra/repositories/search_repository.dart';
-import 'package:clean_dart_flutter_command/src/search/presenter/stores/search_store.dart';
+import 'package:clean_dart_flutter_command/src/search/features/stores/search_store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_command/flutter_command.dart';
 

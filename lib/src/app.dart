@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'search/presenter/search_page.dart';
+import 'search/features/search_page.dart';
 
 /// The Widget that configures your application.
 class MyApp extends StatelessWidget {
